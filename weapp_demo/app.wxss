@@ -1,0 +1,12 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  /**主轴 纵轴之分 row**/
+  flex-direction: column;
+  align-items: center;
+  /**主轴对齐**/
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
