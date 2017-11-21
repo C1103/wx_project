@@ -1,0 +1,44 @@
+    .swiper-tab {
+        width: 100%;
+        border-bottom: 2rpx solid #ccc;
+        text-align: center;
+        height: 88rpx;
+        line-height: 88rpx;
+        display: flex;
+        flex-flow: row;
+    }
+    
+    .swiper-tab-item {
+        flex: 1;
+        color: #434343;
+    }
+    
+    .active {
+        color: #f65959;
+        border-bottom: 4px solid #f65959;
+    }
+    
+    swiper {
+        text-align: center;
+    }
+    /**index.wxss**/
+    /* .userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+} */
