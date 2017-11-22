@@ -1,5 +1,6 @@
 {
     "pages": [
+        "pages/scroll/scroll",
         "pages/index/index",
         "pages/logs/logs",
         "pages/weapp_module/weapp_module"
