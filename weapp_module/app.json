@@ -1,9 +1,13 @@
 {
     "pages": [
+        "pages/storage_pre/storage_pre",
+        "pages/storage/storage",
+        "pages/drumptime/drumptime",
         "pages/scroll/scroll",
         "pages/index/index",
         "pages/logs/logs",
         "pages/weapp_module/weapp_module"
+
     ],
     "window": {
         "backgroundTextStyle": "light",

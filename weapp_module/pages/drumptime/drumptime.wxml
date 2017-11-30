@@ -1,0 +1,4 @@
+<!--pages/drumptime/drumptime.wxml-->
+<view class="drump-right">
+    <text>{{font}}{{time}}</text>
+</view>
